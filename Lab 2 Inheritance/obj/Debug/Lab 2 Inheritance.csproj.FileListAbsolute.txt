@@ -1,0 +1,9 @@
+C:\Users\yanga\source\repos\Lab 2 Inheritance\Lab 2 Inheritance\bin\Debug\employees.txt
+C:\Users\yanga\source\repos\Lab 2 Inheritance\Lab 2 Inheritance\bin\Debug\Lab 2 Inheritance.exe.config
+C:\Users\yanga\source\repos\Lab 2 Inheritance\Lab 2 Inheritance\bin\Debug\Lab 2 Inheritance.exe
+C:\Users\yanga\source\repos\Lab 2 Inheritance\Lab 2 Inheritance\bin\Debug\Lab 2 Inheritance.pdb
+C:\Users\yanga\source\repos\Lab 2 Inheritance\Lab 2 Inheritance\obj\Debug\Lab 2 Inheritance.csproj.AssemblyReference.cache
+C:\Users\yanga\source\repos\Lab 2 Inheritance\Lab 2 Inheritance\obj\Debug\Lab 2 Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\yanga\source\repos\Lab 2 Inheritance\Lab 2 Inheritance\obj\Debug\Lab 2 Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\yanga\source\repos\Lab 2 Inheritance\Lab 2 Inheritance\obj\Debug\Lab 2 Inheritance.exe
+C:\Users\yanga\source\repos\Lab 2 Inheritance\Lab 2 Inheritance\obj\Debug\Lab 2 Inheritance.pdb
